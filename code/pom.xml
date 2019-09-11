@@ -41,21 +41,21 @@
             <artifactId>flink-dist_2.11</artifactId>
             <version>${flink.version}</version>
             <scope>system</scope>
-            <systemPath>C:\Users\Wangyu2\.m2\repository\yuwang\flink-dist_2.11\1.9-SNAPSHOT\flink-dist_2.11-1.9-SNAPSHOT.jar</systemPath>
+            <systemPath>C:\Users\maven\.m2\repository\yuwang\flink-dist_2.11\1.9-SNAPSHOT\flink-dist_2.11-1.9-SNAPSHOT.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>yuwang</groupId>
             <artifactId>flink-table_2.11</artifactId>
             <scope>system</scope>
             <version>${flink.version}</version>
-            <systemPath>C:\Users\Wangyu2\.m2\repository\yuwang\flink-table_2.11\1.9-SNAPSHOT\flink-table_2.11-1.9-SNAPSHOT.jar</systemPath>
+            <systemPath>C:\Users\maven\.m2\repository\yuwang\flink-table_2.11\1.9-SNAPSHOT\flink-table_2.11-1.9-SNAPSHOT.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>yuwang</groupId>
             <artifactId>flink-table-blink_2.11</artifactId>
             <version>${flink.version}</version>
             <scope>system</scope>
-            <systemPath>C:\Users\Wangyu2\.m2\repository\yuwang\flink-table-blink_2.11\1.9-SNAPSHOT\flink-table-blink_2.11-1.9-SNAPSHOT.jar</systemPath>
+            <systemPath>C:\Users\maven\.m2\repository\yuwang\flink-table-blink_2.11\1.9-SNAPSHOT\flink-table-blink_2.11-1.9-SNAPSHOT.jar</systemPath>
         </dependency>
     </dependencies>
     <build>
